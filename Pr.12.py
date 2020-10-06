@@ -1,0 +1,8 @@
+a=int(input("nr de oua date de 1 gaina"))
+b=int(input("nr de oua date de 2 gaina"))
+c=int(input("nr de oua date de 3 gaina"))
+d=int(input("nr de oua date de 4 gaina"))
+print("nr de oua date de 1 gaina intro saptamina",a*7)
+print("nr de oua date de 2 gaina intro saptamina",b*7)
+print("nr de oua date de 3 gaina intro saptamina",c*7)
+print("nr de oua date de 4 gaina intro saptamina",d*7)
